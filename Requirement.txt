@@ -1,0 +1,8 @@
+# Clone the repository
+git clone https://github.com/Shafayethossain7/Real-Ip-Reavealer.git
+
+# Navigate into the project directory
+cd Real-Ip-Reavealer
+
+# Run the script
+python3 Source-code.py
